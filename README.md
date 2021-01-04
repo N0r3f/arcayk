@@ -24,7 +24,7 @@ statUc.php | statScreen.php | statKeyboard.php | statMouse.php | statLaptop.php
 
 formTablet.php | formPrint.php | formAdh.php | crud.php
 ------------- | ------------- | ------------- | -------------
-receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | crud
+receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | crud/
 connect.php | connect.php | connect.php | connect.php
 close.php | close.php | close.php | close.php
 statTablet.php | statPrint.php | statAdh.php | stat.php
