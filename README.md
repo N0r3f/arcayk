@@ -22,13 +22,13 @@ connect.php | connect.php | connect.php | connect.php
 close.php | close.php | close.php | close.php 
 statUc.php | statScreen.php | statKeyboard.php | statMouse.php 
 
-formLaptop.php | formTablet.php | formPrint.php | formAdh.php  | crud.php
+formLaptop.php | formTablet.php | formPrint.php | formAdh.php 
 ------------- | ------------- | ------------- | -------------
 receiveFormLaptop.php | receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php 
 connect.php | connect.php | connect.php | connect.php 
 close.php | close.php | close.php | close.php
-statLaptop.php | statTablet.php | statPrint.php | statAdh.php | stat.php
+statLaptop.php | statTablet.php | statPrint.php | statAdh.php 
 
-| crud.php |
-| ------------- |
-| crud/ | add.php | edit.php | delete.php |
+crud.php |
+------------- |
+crud/ | add.php | edit.php | delete.php |
