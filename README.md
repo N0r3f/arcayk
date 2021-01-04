@@ -15,16 +15,20 @@
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/adh.png)
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/crud.png)
 
-formUc.php | formScreen.php | formKeyboard.php | formMouse.php | formLaptop.php 
------------- | ------------- | ------------- | ------------- | ------------- 
-receiveFormUc.php | receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | receiveFormLaptop.php 
-connect.php | connect.php | connect.php | connect.php | connect.php 
-close.php | close.php | close.php | close.php | close.php 
-statUc.php | statScreen.php | statKeyboard.php | statMouse.php | statLaptop.php
+formUc.php | formScreen.php | formKeyboard.php | formMouse.php  
+------------- | ------------- | ------------- | ------------- 
+receiveFormUc.php | receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php  
+connect.php | connect.php | connect.php | connect.php 
+close.php | close.php | close.php | close.php 
+statUc.php | statScreen.php | statKeyboard.php | statMouse.php 
 
-formTablet.php | formPrint.php | formAdh.php | crud.php
+formLaptop.php | formTablet.php | formPrint.php | formAdh.php  | crud.php
 ------------- | ------------- | ------------- | -------------
-receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | crud/
-connect.php | connect.php | connect.php | connect.php
+receiveFormLaptop.php | receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php 
+connect.php | connect.php | connect.php | connect.php 
 close.php | close.php | close.php | close.php
-statTablet.php | statPrint.php | statAdh.php | stat.php
+statLaptop.php | statTablet.php | statPrint.php | statAdh.php | stat.php
+
+| crud.php |
+| ------------- |
+| crud/ | add.php | edit.php | delete.php |
