@@ -20,9 +20,11 @@ formUc.php | formScreen.php | formKeyboard.php | formMouse.php | formLaptop.php
 receiveFormUc.php | receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | receiveFormLaptop.php 
 connect.php | connect.php | connect.php | connect.php | connect.php 
 close.php | close.php | close.php | close.php | close.php 
+statUc.php | statScreen.php | statKeyboard.php | statMouse.php | statLaptop.php
 
 formTablet.php | formPrint.php | formAdh.php | crud.php
 ------------- | ------------- | ------------- | -------------
 receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | crud
 connect.php | connect.php | connect.php | connect.php
 close.php | close.php | close.php | close.php
+statTablet.php | statPrint.php | statAdh.php | stat.php
