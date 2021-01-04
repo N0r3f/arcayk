@@ -15,3 +15,9 @@
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/adh.png)
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/crud.png)
 
+formUc.php | formScreen.php | formKeyboard.php | formMouse.php | formLaptop.php | formTablet.php | formPrint.php | formAdh.php | crud.php
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+receiveFormUc.php | receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | receiveFormLaptop.php | receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | crud
+connect.php | connect.php | connect.php | connect.php | connect.php | connect.php | connect.php | connect.php | connect.php
+close.php | close.php | close.php | close.php | close.php | close.php | close.php | close.php | close.php
+
