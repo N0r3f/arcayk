@@ -18,19 +18,24 @@
 Unités centrales | Ecrans | Claviers | Souris | /  
 ------------- | ------------- | ------------- | ------------- |------------
 formUc.php | formScreen.php | formKeyboard.php | formMouse.php | ↓
-receiveFormUc.php |↓ receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | ↓  
+receiveFormUc.php | receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | ↓  
 connect.php | connect.php | connect.php | connect.php | ↓
 close.php | close.php | close.php | close.php | ↓
 statUc.php | statScreen.php | statKeyboard.php | statMouse.php | / 
 
-Portables | Tablettes | Imprimantes | Adhérents 
-------------- | ------------- | ------------- | -------------
-formLaptop.php | formTablet.php | formPrint.php | formAdh.php 
-receiveFormLaptop.php | receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php 
-connect.php | connect.php | connect.php | connect.php 
-close.php | close.php | close.php | close.php
-statLaptop.php | statTablet.php | statPrint.php | statAdh.php 
+Portables | Tablettes | Imprimantes | Adhérents | / 
+------------- | ------------- | ------------- | ------------- | -------------
+formLaptop.php | formTablet.php | formPrint.php | formAdh.php | ↓
+receiveFormLaptop.php | receiveFormTablet.php  | receiveFormPrint.php | receiveFormAdh.php | ↓ 
+connect.php | connect.php | connect.php | connect.php | ↓
+close.php | close.php | close.php | close.php | ↓
+statLaptop.php | statTablet.php | statPrint.php | statAdh.php | / 
 
 CRUD |
 ------------- |
-crud.php | crud/ | add.php | edit.php | delete.php |
+crud.php | / 
+------------ | ------------
+crud/ | ↓
+add.php | ↓
+edit.php | ↓
+delete.php | /
