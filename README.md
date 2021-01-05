@@ -16,6 +16,9 @@
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/adh.png)
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/crud.png)
 
+Tableau d'entrées
+=
+
 Unités centrales | Ecrans | Claviers | Souris | /  
 ------------- | ------------- | ------------- | ------------- |------------
 formUc.php | formScreen.php | formKeyboard.php | formMouse.php | ↓
@@ -41,10 +44,18 @@ edit.php | ↓
 delete.php | ↓
 stat.php | /
 
+Schéma d'entrées
+=
 
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/schema.png)
 
+Composition des tables
+=
+
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd1.PNG)
+
+Schéma relationnel
+=
 
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd.PNG)
 
