@@ -31,11 +31,11 @@ connect.php | connect.php | connect.php | connect.php | ↓
 close.php | close.php | close.php | close.php | ↓
 statLaptop.php | statTablet.php | statPrint.php | statAdh.php | / 
 
-CRUD |
-------------- |
-crud.php | / 
------------- | ------------
-crud/ | ↓
+CRUD | /
+------------- | ------------
+crud.php | ↓  
+crud/ | /
 add.php | ↓
 edit.php | ↓
-delete.php | /
+delete.php | ↓
+stat.php | /
