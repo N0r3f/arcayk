@@ -17,10 +17,10 @@
 
 Unités centrales | Ecrans | Claviers | Souris  
 ------------- | ------------- | ------------- | -------------
-formUc.php ↓ | formScreen.php ↓ | formKeyboard.php | formMouse.php
-receiveFormUc.php ↓ | receiveFormScreen.php ↓ | receiveFormKeyboard.php | receiveFormMouse.php  
-connect.php ↓ | connect.php ↓ | connect.php | connect.php 
-close.php ↓ | close.php ↓ | close.php | close.php 
+↓ formUc.php |↓ formScreen.php |↓ formKeyboard.php |↓ formMouse.php
+↓ receiveFormUc.php |↓ receiveFormScreen.php |↓ receiveFormKeyboard.php |↓ receiveFormMouse.php  
+↓ connect.php |↓ connect.php |↓ connect.php |↓ connect.php 
+↓ close.php |↓ close.php |↓ close.php |↓ close.php 
 statUc.php | statScreen.php | statKeyboard.php | statMouse.php 
 
 Portables | Tablettes | Imprimantes | Adhérents 
