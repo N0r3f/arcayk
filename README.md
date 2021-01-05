@@ -41,8 +41,8 @@ stat.php | /
 
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/schema.png)
 
-![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd1.png)
+![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd1.PNG)
 
-![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd.png)
+![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/bdd.PNG)
 
 
