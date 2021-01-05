@@ -15,13 +15,13 @@
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/adh.png)
 ![img](https://github.com/N0r3f/arcayk/blob/main/doc/img/crud.png)
 
-Unités centrales | Ecrans | Claviers | Souris | ↓  
+Unités centrales | Ecrans | Claviers | Souris | /  
 ------------- | ------------- | ------------- | ------------- |------------
 formUc.php | formScreen.php | formKeyboard.php | formMouse.php | ↓
 receiveFormUc.php |↓ receiveFormScreen.php | receiveFormKeyboard.php | receiveFormMouse.php | ↓  
 connect.php | connect.php | connect.php | connect.php | ↓
 close.php | close.php | close.php | close.php | ↓
-statUc.php | statScreen.php | statKeyboard.php | statMouse.php |  
+statUc.php | statScreen.php | statKeyboard.php | statMouse.php | / 
 
 Portables | Tablettes | Imprimantes | Adhérents 
 ------------- | ------------- | ------------- | -------------
